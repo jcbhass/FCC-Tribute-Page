@@ -1,0 +1,21 @@
+body{
+    font-family: Calibri, Times New Roman; 
+    background-color: #FFCD00;
+    text-align: center;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 10px auto;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 28px;
+}
